@@ -1,0 +1,133 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 01/08/2017 12:35
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-team-work:before { content: "\f100"; }
+.flaticon-stamp:before { content: "\f101"; }
+.flaticon-approve:before { content: "\f102"; }
+.flaticon-verification-symbol:before { content: "\f103"; }
+.flaticon-approval-symbol-in-badge:before { content: "\f104"; }
+.flaticon-handshake-1:before { content: "\f105"; }
+.flaticon-handshake:before { content: "\f106"; }
+.flaticon-agreement-1:before { content: "\f107"; }
+.flaticon-people-4:before { content: "\f108"; }
+.flaticon-present:before { content: "\f109"; }
+.flaticon-give-a-gift:before { content: "\f10a"; }
+.flaticon-give-love:before { content: "\f10b"; }
+.flaticon-commerce-1:before { content: "\f10c"; }
+.flaticon-business:before { content: "\f10d"; }
+.flaticon-commerce:before { content: "\f10e"; }
+.flaticon-parents:before { content: "\f10f"; }
+.flaticon-family-room:before { content: "\f110"; }
+.flaticon-businessmen-team:before { content: "\f111"; }
+.flaticon-businessmen:before { content: "\f112"; }
+.flaticon-people-3:before { content: "\f113"; }
+.flaticon-people-1:before { content: "\f114"; }
+.flaticon-man:before { content: "\f115"; }
+.flaticon-family:before { content: "\f116"; }
+.flaticon-team-1:before { content: "\f117"; }
+.flaticon-man-in-a-party-dancing-with-people:before { content: "\f118"; }
+.flaticon-team:before { content: "\f119"; }
+.flaticon-group:before { content: "\f11a"; }
+.flaticon-choices-2:before { content: "\f11b"; }
+.flaticon-choices-1:before { content: "\f11c"; }
+.flaticon-choices:before { content: "\f11d"; }
+.flaticon-man-with-two-options-to-choose-between-yes-or-no:before { content: "\f11e"; }
+.flaticon-list-1:before { content: "\f11f"; }
+.flaticon-clipboard-with-a-list:before { content: "\f120"; }
+.flaticon-checklist-on-a-paper-with-a-pencil:before { content: "\f121"; }
+.flaticon-tasks:before { content: "\f122"; }
+.flaticon-list:before { content: "\f123"; }
+.flaticon-choice:before { content: "\f124"; }
+.flaticon-square:before { content: "\f125"; }
+.flaticon-approved-signal:before { content: "\f126"; }
+.flaticon-approved:before { content: "\f127"; }
+.flaticon-certificate-diploma:before { content: "\f128"; }
+.flaticon-giving-cash:before { content: "\f129"; }
+.flaticon-give-money:before { content: "\f12a"; }
+.flaticon-credit-card-payment:before { content: "\f12b"; }
+.flaticon-cash-payment:before { content: "\f12c"; }
+.flaticon-agreement:before { content: "\f12d"; }
+.flaticon-hand-shake:before { content: "\f12e"; }
+    
+    $font-Flaticon-team-work: "\f100";
+    $font-Flaticon-stamp: "\f101";
+    $font-Flaticon-approve: "\f102";
+    $font-Flaticon-verification-symbol: "\f103";
+    $font-Flaticon-approval-symbol-in-badge: "\f104";
+    $font-Flaticon-handshake-1: "\f105";
+    $font-Flaticon-handshake: "\f106";
+    $font-Flaticon-agreement-1: "\f107";
+    $font-Flaticon-people-4: "\f108";
+    $font-Flaticon-present: "\f109";
+    $font-Flaticon-give-a-gift: "\f10a";
+    $font-Flaticon-give-love: "\f10b";
+    $font-Flaticon-commerce-1: "\f10c";
+    $font-Flaticon-business: "\f10d";
+    $font-Flaticon-commerce: "\f10e";
+    $font-Flaticon-parents: "\f10f";
+    $font-Flaticon-family-room: "\f110";
+    $font-Flaticon-businessmen-team: "\f111";
+    $font-Flaticon-businessmen: "\f112";
+    $font-Flaticon-people-3: "\f113";
+    $font-Flaticon-people-1: "\f114";
+    $font-Flaticon-man: "\f115";
+    $font-Flaticon-family: "\f116";
+    $font-Flaticon-team-1: "\f117";
+    $font-Flaticon-man-in-a-party-dancing-with-people: "\f118";
+    $font-Flaticon-team: "\f119";
+    $font-Flaticon-group: "\f11a";
+    $font-Flaticon-choices-2: "\f11b";
+    $font-Flaticon-choices-1: "\f11c";
+    $font-Flaticon-choices: "\f11d";
+    $font-Flaticon-man-with-two-options-to-choose-between-yes-or-no: "\f11e";
+    $font-Flaticon-list-1: "\f11f";
+    $font-Flaticon-clipboard-with-a-list: "\f120";
+    $font-Flaticon-checklist-on-a-paper-with-a-pencil: "\f121";
+    $font-Flaticon-tasks: "\f122";
+    $font-Flaticon-list: "\f123";
+    $font-Flaticon-choice: "\f124";
+    $font-Flaticon-square: "\f125";
+    $font-Flaticon-approved-signal: "\f126";
+    $font-Flaticon-approved: "\f127";
+    $font-Flaticon-certificate-diploma: "\f128";
+    $font-Flaticon-giving-cash: "\f129";
+    $font-Flaticon-give-money: "\f12a";
+    $font-Flaticon-credit-card-payment: "\f12b";
+    $font-Flaticon-cash-payment: "\f12c";
+    $font-Flaticon-agreement: "\f12d";
+    $font-Flaticon-hand-shake: "\f12e";
