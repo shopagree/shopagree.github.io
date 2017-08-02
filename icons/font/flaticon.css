@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 01/08/2017 12:35
+  	Creation date: 02/08/2017 05:49
   	*/
 
 @font-face {
@@ -29,50 +29,52 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-team-work:before { content: "\f100"; }
-.flaticon-stamp:before { content: "\f101"; }
-.flaticon-approve:before { content: "\f102"; }
-.flaticon-verification-symbol:before { content: "\f103"; }
-.flaticon-approval-symbol-in-badge:before { content: "\f104"; }
-.flaticon-handshake-1:before { content: "\f105"; }
-.flaticon-handshake:before { content: "\f106"; }
-.flaticon-agreement-1:before { content: "\f107"; }
-.flaticon-people-4:before { content: "\f108"; }
-.flaticon-present:before { content: "\f109"; }
-.flaticon-give-a-gift:before { content: "\f10a"; }
-.flaticon-give-love:before { content: "\f10b"; }
-.flaticon-commerce-1:before { content: "\f10c"; }
-.flaticon-business:before { content: "\f10d"; }
-.flaticon-commerce:before { content: "\f10e"; }
-.flaticon-parents:before { content: "\f10f"; }
-.flaticon-family-room:before { content: "\f110"; }
-.flaticon-businessmen-team:before { content: "\f111"; }
-.flaticon-businessmen:before { content: "\f112"; }
-.flaticon-people-3:before { content: "\f113"; }
-.flaticon-people-1:before { content: "\f114"; }
-.flaticon-man:before { content: "\f115"; }
-.flaticon-family:before { content: "\f116"; }
-.flaticon-team-1:before { content: "\f117"; }
-.flaticon-man-in-a-party-dancing-with-people:before { content: "\f118"; }
-.flaticon-team:before { content: "\f119"; }
-.flaticon-group:before { content: "\f11a"; }
-.flaticon-choices-2:before { content: "\f11b"; }
-.flaticon-choices-1:before { content: "\f11c"; }
-.flaticon-choices:before { content: "\f11d"; }
-.flaticon-man-with-two-options-to-choose-between-yes-or-no:before { content: "\f11e"; }
-.flaticon-list-1:before { content: "\f11f"; }
-.flaticon-clipboard-with-a-list:before { content: "\f120"; }
-.flaticon-checklist-on-a-paper-with-a-pencil:before { content: "\f121"; }
-.flaticon-tasks:before { content: "\f122"; }
-.flaticon-list:before { content: "\f123"; }
-.flaticon-choice:before { content: "\f124"; }
-.flaticon-square:before { content: "\f125"; }
-.flaticon-approved-signal:before { content: "\f126"; }
-.flaticon-approved:before { content: "\f127"; }
-.flaticon-certificate-diploma:before { content: "\f128"; }
-.flaticon-giving-cash:before { content: "\f129"; }
-.flaticon-give-money:before { content: "\f12a"; }
-.flaticon-credit-card-payment:before { content: "\f12b"; }
-.flaticon-cash-payment:before { content: "\f12c"; }
-.flaticon-agreement:before { content: "\f12d"; }
-.flaticon-hand-shake:before { content: "\f12e"; }
+.flaticon-mouse-in-a-shopping-bag:before { content: "\f100"; }
+.flaticon-gift:before { content: "\f101"; }
+.flaticon-shopping-bag:before { content: "\f102"; }
+.flaticon-people-2:before { content: "\f103"; }
+.flaticon-meeting-1:before { content: "\f104"; }
+.flaticon-meeting:before { content: "\f105"; }
+.flaticon-interview:before { content: "\f106"; }
+.flaticon-box-2:before { content: "\f107"; }
+.flaticon-ribbon:before { content: "\f108"; }
+.flaticon-box-1:before { content: "\f109"; }
+.flaticon-hands-1:before { content: "\f10a"; }
+.flaticon-hands:before { content: "\f10b"; }
+.flaticon-like-1:before { content: "\f10c"; }
+.flaticon-like:before { content: "\f10d"; }
+.flaticon-choices-2:before { content: "\f10e"; }
+.flaticon-hand-shake-1:before { content: "\f10f"; }
+.flaticon-checklist-with-a-pencil:before { content: "\f110"; }
+.flaticon-checklist-square-interface-symbol-of-rounded-corners:before { content: "\f111"; }
+.flaticon-circular:before { content: "\f112"; }
+.flaticon-forbidden:before { content: "\f113"; }
+.flaticon-thumb-up-outline-symbol:before { content: "\f114"; }
+.flaticon-box:before { content: "\f115"; }
+.flaticon-giving-a-presentation-card:before { content: "\f116"; }
+.flaticon-team-work:before { content: "\f117"; }
+.flaticon-approve:before { content: "\f118"; }
+.flaticon-handshake:before { content: "\f119"; }
+.flaticon-commerce:before { content: "\f11a"; }
+.flaticon-parents:before { content: "\f11b"; }
+.flaticon-family-room:before { content: "\f11c"; }
+.flaticon-businessmen:before { content: "\f11d"; }
+.flaticon-people-1:before { content: "\f11e"; }
+.flaticon-people:before { content: "\f11f"; }
+.flaticon-man:before { content: "\f120"; }
+.flaticon-family:before { content: "\f121"; }
+.flaticon-team-1:before { content: "\f122"; }
+.flaticon-team:before { content: "\f123"; }
+.flaticon-choices-1:before { content: "\f124"; }
+.flaticon-choices:before { content: "\f125"; }
+.flaticon-list-1:before { content: "\f126"; }
+.flaticon-clipboard-with-a-list:before { content: "\f127"; }
+.flaticon-checklist-on-a-paper-with-a-pencil:before { content: "\f128"; }
+.flaticon-tasks:before { content: "\f129"; }
+.flaticon-list:before { content: "\f12a"; }
+.flaticon-choice:before { content: "\f12b"; }
+.flaticon-approved:before { content: "\f12c"; }
+.flaticon-giving-cash:before { content: "\f12d"; }
+.flaticon-credit-card-payment:before { content: "\f12e"; }
+.flaticon-agreement:before { content: "\f12f"; }
+.flaticon-hand-shake:before { content: "\f130"; }
